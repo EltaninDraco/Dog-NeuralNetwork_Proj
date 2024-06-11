@@ -1,6 +1,8 @@
 # Dog-NeuralNetwork_Proj
 Multi-class dog breed image classifier
 
+IN PROGRESS
+
 This notebook use Tensorflow (version 2.0) and Tensorflow Hub to build an end-to-end multi-class dog breed image classifier.
 
 ## 1. Problem
